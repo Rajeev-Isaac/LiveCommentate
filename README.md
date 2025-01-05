@@ -15,22 +15,22 @@ project/ <br>
 │   │   └── videoModel.js<br>
 │   ├── routes/<br>
 │   │   ├── authRoutes.js <br>
-│   │   └── videoRoutes.js
-│   ├── controllers/
-│   │   ├── authController.js
-│   │   └── videoController.js
-│   ├── middleware/
-│   │   └── authMiddleware.js
-│   ├── uploads/ (optional, for storing uploaded video files locally if needed)
-│   └── package.json
-├── frontend/
-│   ├── index.html
-│   ├── login.html
-│   ├── signup.html
-│   ├── upload.html
-│   ├── scripts/
-│   │   ├── signup.js
-│   │   ├── login.js
-│   │   ├── upload.js
-│   └── styles.css
-└── README.md
+│   │   └── videoRoutes.js <br>
+│   ├── controllers/ <br>
+│   │   ├── authController.js <br>
+│   │   └── videoController.js <br>
+│   ├── middleware/ <br>
+│   │   └── authMiddleware.js <br>
+│   ├── uploads/  <br>
+│   └── package.json <br>
+├── frontend/ <br>
+│   ├── index.html <br>
+│   ├── login.html<br>
+│   ├── signup.html<br>
+│   ├── upload.html<br>
+│   ├── scripts/<br>
+│   │   ├── signup.js<br>
+│   │   ├── login.js<br>
+│   │   ├── upload.js<br>
+│   └── styles.css<br>
+└── README.md<br>
