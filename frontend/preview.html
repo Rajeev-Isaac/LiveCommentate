@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Video Preview</title>
+</head>
+<body>
+    <nav class="navbar">
+        <h1>Cricket Commentary</h1>
+        <ul>
+            <li><a href="upload.html">Upload New Video</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <div class="video-section">
+            <video class="videoPlayer" id="videoPlayer" controls></video>
+        </div>
+        <div class="commentary-section">
+            <h2>Commentary</h2>
+            <p id="commentaryText">Fetching commentary...</p>
+        </div>
+    </div>
+    <script src="scripts/preview.js"></script>
+</body>
+</html>
