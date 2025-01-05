@@ -6,7 +6,7 @@ This project generates real-time cricket video commentary. Users can:
 - Upload cricket videos and get commentary.
 
 ## Directory Structure
-project/
+project/ \n
 ├── backend/
 │   ├── app.js
 │   ├── .env
