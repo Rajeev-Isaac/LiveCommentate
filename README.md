@@ -6,15 +6,15 @@ This project generates real-time cricket video commentary. Users can:
 - Upload cricket videos and get commentary.
 
 ## Directory Structure
-project/ \n
-├── backend/
-│   ├── app.js
-│   ├── .env
-│   ├── models/
-│   │   ├── userModel.js
-│   │   └── videoModel.js
-│   ├── routes/
-│   │   ├── authRoutes.js
+project/ <br>
+├── backend/ <br>
+│   ├── app.js<br>
+│   ├── .env<br>
+│   ├── models/<br>
+│   │   ├── userModel.js <br>
+│   │   └── videoModel.js<br>
+│   ├── routes/<br>
+│   │   ├── authRoutes.js <br>
 │   │   └── videoRoutes.js
 │   ├── controllers/
 │   │   ├── authController.js
