@@ -22,12 +22,12 @@ project/ <br>
 │   ├── middleware/ <br>
 │   │   └── authMiddleware.js <br>
 │   ├── uploads/  <br>
-│   └── package.json <br>
+│   └── package.json <br><br>
 ├── frontend/ <br>
 │   ├── index.html <br>
 │   ├── login.html<br>
 │   ├── signup.html<br>
-│   ├── upload.html<br>
+│   ├── upload.html<br><br>
 │   ├── scripts/<br>
 │   │   ├── signup.js<br>
 │   │   ├── login.js<br>
